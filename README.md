@@ -32,12 +32,12 @@
 
 1. Склонируйте репозиторий:
     ```bash
-    git clone https://github.com/ваш_репозиторий.git
+    git clone https://https://github.com/petya8bachey/MSKZI_1
     ```
 
 2. Перейдите в папку проекта:
     ```bash
-    cd ваш_репозиторий
+    cd MSKZI_1
     ```
 
 3. Откройте проект в вашей любимой среде разработки Java (например, IntelliJ IDEA, Eclipse).
