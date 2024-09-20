@@ -32,7 +32,7 @@
 
 1. Склонируйте репозиторий:
     ```bash
-    git clone https://https://github.com/petya8bachey/MSKZI_1
+    git clone https://github.com/petya8bachey/MSKZI_1
     ```
 
 2. Перейдите в папку проекта:
